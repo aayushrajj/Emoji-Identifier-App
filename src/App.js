@@ -99,7 +99,7 @@ export default function App() {
           <li className="list-footer-item">
             <a
               className="link"
-              href="https://twitter.com/AyushRajgupt"
+              href="https://twitter.com/aaayushrajjj"
               target="_blank"
               rel="noopener noreferrer"
             >
