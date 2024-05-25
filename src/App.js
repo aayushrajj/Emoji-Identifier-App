@@ -15,7 +15,8 @@ const emojiDictionary = {
   "🤠": "Cowboy hat face",
   "🙃": "Upside down face",
   "😑": "Annoyance",
-  "😶": "Face without mouth"
+  "😶": "Face without mouth",
+  "💦": "Panni Panni Panni"
 };
 
 // this function converts given object into array
